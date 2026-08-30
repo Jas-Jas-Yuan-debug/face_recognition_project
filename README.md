@@ -29,3 +29,7 @@ python recognize.py
 ## 防伪模型
 
 项目包含 Apache 2.0 授权的 MiniFASNet ONNX 模型。详细来源和校验值见 `THIRD_PARTY_NOTICES.md`。
+
+## 许可证
+
+本项目源代码以 GNU Affero General Public License v3.0（AGPL-3.0）开源。第三方组件和模型仍遵循各自的许可证，详见 `THIRD_PARTY_NOTICES.md`。
